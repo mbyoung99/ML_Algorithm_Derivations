@@ -1,5 +1,5 @@
 # Derivation of Machine Learning Algorithms in Python
-This is a portfolio to document my derivations of common Machine Learning algoriths using only the numpy library, and is based on Machine Learning from Scratch online course. 
+This is a portfolio to document my derivations of common Machine Learning algoriths in python using only the numpy library, and is based on Machine Learning from Scratch online course. 
 * Machine Learning Algorithms: Linear Regression, Logistic Regression, K Nearest Neighbor, Decision Tree, Random Forest, Support Vector Machine, K Means Clustering, Principal Component Analysis, Artificial Neural Networks 
 * Programming Languages: Python
 * Libraries: Numpy
