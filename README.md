@@ -19,7 +19,6 @@ This is a portfolio to document my derivations of common Machine Learning algori
 ## [Support Vector Machines](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Support_Vector_Machines)
 ![](/Support_Vector_Machines/svm.png)
 
-* Additional Machine Learning algorithm derivations:
 ## [Decision Tree and Random Forest](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Decision_Trees_Random_Forests)
 ## [Naive Bayes](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Naive_Bayes)
 ## [Logististic Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Logististic_Regressions)
