@@ -28,3 +28,5 @@ This is a portfolio to document my derivations of common Machine Learning algori
 ## [Principal Component Analysis](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Principal_Component_Analysis)
 ![](/Principal_Component_Analysis/pca.png)
 
+## [Support Vector Machines](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Support_Vector_Machines)
+![](/Support_Vector_Machines/svm.png)
