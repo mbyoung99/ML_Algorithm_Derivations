@@ -8,7 +8,7 @@ This is a portfolio to document my derivations of common Machine Learning algori
 ![](/Images/LinearModelPlotMultiVar_.png)
 
 ## [K Means Clustering](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/K_Means_Clustering)
-![](/Images/LinearModelPlotMultiVar_.png)
+![](/K_Means_Clustering/k_means.PNG)
 
 ## [K Nearest_Neighbors](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/K_Nearest_Neighbors)
 ![](/Images/LinearModelPlotMultiVar_.png)
