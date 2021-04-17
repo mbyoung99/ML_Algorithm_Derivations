@@ -14,7 +14,7 @@ This is a portfolio to document my derivations of common Machine Learning algori
 ![](/Images/LinearModelPlotMultiVar_.png)
 
 ## [Linear Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Linear_Regressions)
-![](/Images/LinearModelPlotMultiVar_.png)
+![](/Linear_Regressions/linear_regression.png)
 
 ## [Logististic Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Logististic_Regressions)
 ![](/Images/LinearModelPlotMultiVar_.png)
