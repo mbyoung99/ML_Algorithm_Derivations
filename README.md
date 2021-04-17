@@ -4,23 +4,11 @@ This is a portfolio to document my derivations of common Machine Learning algori
 * Programming Languages: Python
 * Library: Numpy
 
-## [Decision Tree and Random Forest](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Decision_Trees_Random_Forests)
-![](/Images/LinearModelPlotMultiVar_.png)
-
 ## [K Means Clustering](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/K_Means_Clustering)
 ![](/K_Means_Clustering/k_means.PNG)
 
-## [K Nearest_Neighbors](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/K_Nearest_Neighbors)
-![](/Images/LinearModelPlotMultiVar_.png)
-
 ## [Linear Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Linear_Regressions)
 ![](/Linear_Regressions/linear_regression.png)
-
-## [Logististic Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Logististic_Regressions)
-![](/Images/LinearModelPlotMultiVar_.png)
-
-## [Naive Bayes](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Naive_Bayes)
-![](/Images/LinearModelPlotMultiVar_.png)
 
 ## [Perceptron](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Perceptron)
 ![](/Perceptron/perceptron.png)
@@ -30,3 +18,9 @@ This is a portfolio to document my derivations of common Machine Learning algori
 
 ## [Support Vector Machines](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Support_Vector_Machines)
 ![](/Support_Vector_Machines/svm.png)
+
+* Additional Machine Learning algorithm derivations:
+## [Decision Tree and Random Forest](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Decision_Trees_Random_Forests)
+## [Naive Bayes](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Naive_Bayes)
+## [Logististic Regressions](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/Logististic_Regressions)
+## [K Nearest_Neighbors](https://github.com/mbyoung99/ML_Algorithm_Derivations/tree/main/K_Nearest_Neighbors)
